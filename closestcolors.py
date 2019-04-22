@@ -17,7 +17,7 @@ def delta_e_perceptiveness(a):
     elif(2 >= a > 1):
         return 'Color difference visible through close observation'
     elif(a <= 1):
-        return 'Color difference not percetible with human eyes'
+        return 'Color difference not perceptible with human eyes'
 
 
 name_to_value = {}

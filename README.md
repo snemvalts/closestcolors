@@ -1,7 +1,7 @@
 closestcolors
 =============
 
-tool for searching for similar colors, and their difference in a bunch of colors.
+tool for searching for similar colors, and calculating their percetible difference.
 uses [CIE2000](https://en.wikipedia.org/wiki/Color_difference) to compare colors
 
 usage:
